@@ -1,0 +1,5 @@
+{
+  "prefix": "{blue}[SteamAccess]{default}",
+  "no_permissions": "To get access to {green}{0}{default}, you need to join our {blue}Steam{default} group.",
+  "reload_success": "{green}Group members reloaded successfully."
+}
